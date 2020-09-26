@@ -18,7 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapuri&layout=compact" alt="ankitapuri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitapuri&show_icons=true" alt="ankitapuri" /></p>
+[![Ankita's github stats](https://github-readme-stats.vercel.app/api?username=ankitapuri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
 
 <p align="center">
 <a href="https://linkedin.com/in/ankita-puri-2702ab190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankita-puri-2702ab190" height="30" width="30" /></a>
