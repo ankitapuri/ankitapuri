@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/ankita-puri-2702ab190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankita-puri-2702ab190" height="30" width="30" /></a>
+<a href="https://instagram.com/_.ankita_.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ankita_.01" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ankita_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankita_05" height="30" width="30" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapuri" alt="ankitapuri" /> </p>
 
 
@@ -21,8 +27,4 @@
 
 [![Ankita's github stats](https://github-readme-stats.vercel.app/api?username=ankitapuri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-<p align="center">
-<a href="https://linkedin.com/in/ankita-puri-2702ab190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankita-puri-2702ab190" height="30" width="30" /></a>
-<a href="https://instagram.com/_.ankita_.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ankita_.01" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/ankita_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankita_05" height="30" width="30" /></a>
-</p>
+
