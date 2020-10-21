@@ -6,6 +6,7 @@
 <a href="https://instagram.com/_.ankita_.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ankita_.01" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/ankita_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankita_05" height="30" width="30" /></a>
 </p>
+<a href="https://medium.com/@ankitapuri10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ankitapuri10" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitapuri" alt="ankitapuri" /> </p>
 
