@@ -29,4 +29,12 @@
 
 [![Ankita's github stats](https://github-readme-stats.vercel.app/api?username=ankitapuri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
+<p align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapuri" alt="Github Streak Stats">
+</p>
+
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ankitapuri&show_icons=true" alt="ankitapuri" />-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
+username=ankitapuri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ff0033&bg_color=151515)](https://github.com/ankitapuri?tab=repositories)-->
