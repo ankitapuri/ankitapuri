@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapuri&layout=compact" alt="ankitapuri" /></p>
 
 
-[![Ankita's github stats](https://github-readme-stats.vercel.app/api?username=ankitapuri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+ [![Ankita's github stats](https://github-readme-stats.vercel.app/api?username=ankitapuri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 <p align="center">
 
