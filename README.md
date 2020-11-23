@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Devops and Competitive Programming**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 💬 Ask me about **anything(would definitely try helping you out)**
 
