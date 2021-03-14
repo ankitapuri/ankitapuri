@@ -29,7 +29,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitapuri&show_icons=true&theme=radical" alt="ankitapuri" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitapuri&theme=gruvbox" />
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapuri" alt="Github Streak Stats">
