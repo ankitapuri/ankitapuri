@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **to be consistent in life**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Open source projects and DSA-learning**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
