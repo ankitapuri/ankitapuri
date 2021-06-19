@@ -2,10 +2,12 @@
 <h3 align="center">A passionate developer and open-source enthusiast✨</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/ankita-puri-2702ab190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ankita-puri-2702ab190" height="30" width="30" /></a>
 <a href="https://instagram.com/_.ankita_.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.ankita_.01" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/ankita_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ankita_05" height="30" width="30" /></a>
   <a href="https://medium.com/@ankitapuri10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ankitapuri10" height="30" width="30" /></a>
+  
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ankita-puri-2702ab190)
+  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Ankitaaaa05)
 </p>
 
 
